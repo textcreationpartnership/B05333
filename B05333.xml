@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act of his Majesties Privy Council of Scotland for a solemn and publick thanksgiving throughout the kingdom, upon her royal Majesties being with child.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05333</idno>
+            <idno type="STC">Wing S1453</idno>
+            <idno type="STC">ESTC R183019</idno>
+            <idno type="EEBO-CITATION">52615052</idno>
+            <idno type="OCLC">ocm 52615052</idno>
+            <idno type="VID">176159</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05333)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176159)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2762:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act of his Majesties Privy Council of Scotland for a solemn and publick thanksgiving throughout the kingdom, upon her royal Majesties being with child.</title>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>Anno Dom. 1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette: Royal seal with initials J R.</note>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary, --  of Modena, Queen, consort of James II, King of England, 1658-1718 --  Early works to 1800.</term>
+               <term>Scotland --  History --  1660-1688 --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:176159:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 3 -->
+            <head>
+               <figure>
+                  <p>J R</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>
+               <hi>ACT</hi> Of His <hi>Majeſties</hi> Privy Council of <hi>Scotland,</hi> for a ſolemn and publick Thanksgiving throughout the Kingdom, upon Her Royal <hi>Majeſties</hi> being with Child.</head>
+            <opener>
+               <dateline>
+                  <hi>Edinburgh,</hi> 
+                  <date>the ſeventeenth day of <hi>January,</hi> 1688.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince it hath pleaſed Almighty GOD, the Fountain of all Life, by whom Kings Reign and King<g ref="char:EOLhyphen"/>domes are eſtabliſhed, to grant unto the Kings moſt excellent <hi>Majesty,</hi> freſh hopes of Royal Iſſue, by his moſt Serene Conſort, Our Gracious Queen <hi>Mary,</hi> who (through the great Goodneſs and Bleſſing of God) is now with Child; And conſidering that the multiplying of the Branches of the Royal Family (eſpecially Iſſuing from our preſent Sac<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed Soveraign, <hi>James</hi> the Seventh, under whoſe Auſpitious, Wiſe and Clement Government, We enjoy ſo much Proſperity, Peace and Plenty) Is a moſt Deſireable Bleſſing, a Native Support and Strengthning of the Crown, and by juſt Conſequence a publick Bleſſing to this Kingdom, Tending to the further Security of the Peace and Happineſs thereof: His <hi>Majeſty</hi> Therefore (At the Humble and Earneſt Deſire, and by the Advice of his Privy Council) Hath thought fit upon this important Occaſion, to ſet apart, and appoint a time, for rendering Devout and Solemn Thanks to GOD, for this great Mercy and Bleſſing, and for offering Publick and Hear<g ref="char:EOLhyphen"/>ty Prayers, to his Divine <hi>Majeſty,</hi> To Bleſſe and Preſerve the Sacred Perſon of our Dread Soveraign Lord, the King, to Proſper his Reign with Honourable and Glorious Succeſſes, and to Prolong his Life, that he may ſee his Childrens Children, and his Throne may be as the Sun; As alſo that he may Bleſſe, Preſerve and Strengthen, His Royal Conſort the Queens <hi>Majeſty,</hi> and make perfect his Work begun for Her, may Save and Defend Her from all Dangers and evil Accidents, that what She hath conceived, may be Preſerved and Happily brought forth, to the Joy of our Soveraign Lord, the King, the further Security of his Crown, and the Happineſs and Eſtabliſhment of this Kingdom.</p>
+            <p>For this end, His <hi>Majeſty,</hi> with Advice foreſaid, Doth Appoint and Ordain, that the foreſaid Thanks-giving and Prayers, be Devout<g ref="char:EOLhyphen"/>ly and Solemnly performed, in all the Paroch-Churches within the City and Dioceſſe of <hi>Edinburgh</hi> upon the twenty ninth day of <hi>January</hi> inſtant, and in all the other Churches, within this Kingdom, upon the ninteenth day of <hi>February</hi> next. And His <hi>Majeſty</hi> accor<g ref="char:EOLhyphen"/>dingly Requires and Commands, the moſt Reverend, and right Reverend, the Arch-Biſhops and Biſhops, to take care, that in all the Paroch-Churches, within their reſpective Dioceſſes, theſe Prayers and Thankſgivings be accordingly Celebrate, by all the Miniſters and Preſbyters under their Jurisdiction, and that they cauſe intimation be made hereof, by reading of the ſame, from the Pulpits in the ſe<g ref="char:EOLhyphen"/>veral Paroch-Churches, the Lords-day, Immediatly preceeding the ſaids Solemn days of publick Thankſgiving, <hi>reſpectivè,</hi> And fina<g ref="char:EOLhyphen"/>ly, His <hi>Majeſty</hi> Charges and Commands all his Loving Subjects heartily, to joyn and concur in theſe Religious and Dutiful Performances, as they would ſhew their Piety and Loyalty, in praying for the Life of the King, the Encreaſe of his Royal Iſſue, the further Security of the Crown, and the Eſtbaliſhment of Peace, and Happineſs in this His Ancient Kingdom. And that theſe Preſents may be made publick and known, His <hi>Majesty</hi> Ordains His Lyon King at Armes, and his Brethren Heraulds, the Macers of the Privy Council, and Purſevants, to paſs to the Mercat Croſs of <hi>Edinburgh,</hi> and other places needful, and there, by open Proclamation, and with all accuſtomed Solemnities on extra<g ref="char:EOLhyphen"/>ordinary Occaſions, make publication of the Premiſſes, that none may pretend ignorance.  Extracted forth of the Records of Privy Coun<g ref="char:EOLhyphen"/>cil, by Sir <hi>William Paterſon</hi> Baronet, Clerk of His <hi>Majeſties</hi> moſt Honourable Privy Council,</p>
+            <closer>
+               <signed>
+                  <hi>WILL. PATERSON,</hi> Cls. Sti. Concilii.</signed>
+               <lb/>
+GOD ſave the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred <hi>Majeſty, Anno Dom.</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
